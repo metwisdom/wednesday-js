@@ -1,0 +1,10 @@
+//Execise 1
+I used `Const` to declare a variable that cannnot be changed which is ,`fullName`, since the name is not expected to change. 
+I used `let` to declare the variable `age` since it can change after an year.
+I `var` to check if the subject is enrolled.
+I used `console.log` to recall the output from the script.
+I used `typeof` in order to display the data type.
+
+//Exercise 2
+I used `const` to declare `stringNum` as a variable. **Note** `5` will be identified as a string rather than a number.
+const was used to declare `10` as a variable 
